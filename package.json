@@ -1,5 +1,5 @@
 {
-    "name": "@elysiajs/swagger",
+    "name": "@alex4386/elysiajs-swagger",
     "version": "1.2.2",
     "description": "Plugin for Elysia to auto-generate Swagger page",
     "author": {
@@ -7,6 +7,13 @@
         "url": "https://github.com/SaltyAom",
         "email": "saltyaom@gmail.com"
     },
+    "contributors": [
+        {
+            "name": "Alex4386",
+            "url": "https://github.com/Alex4386",
+            "email": "psh010209@gmail.com"
+        }
+    ],
     "main": "./dist/cjs/index.js",
     "module": "./dist/index.mjs",
     "types": "./dist/index.d.ts",
@@ -42,12 +49,12 @@
         "elysia",
         "swagger"
     ],
-    "homepage": "https://github.com/elysiajs/elysia-swagger",
+    "homepage": "https://github.com/alex4386/elysia-swagger",
     "repository": {
         "type": "git",
-        "url": "https://github.com/elysiajs/elysia-swagger"
+        "url": "https://github.com/alex4386/elysia-swagger"
     },
-    "bugs": "https://github.com/elysiajs/elysia-swagger/issues",
+    "bugs": "https://github.com/alex4386/elysia-swagger/issues",
     "license": "MIT",
     "scripts": {
         "dev": "bun run --watch example/index.ts",
