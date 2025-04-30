@@ -1,6 +1,7 @@
 {
     "type": "module",
     "dependencies": {
-        "@alex4386/elysiajs-swagger": "../../.."
+        "@alex4386/elysia-swagger": "file:../../..",
+        "@elysiajs/swagger": "../../.."
     }
 }
