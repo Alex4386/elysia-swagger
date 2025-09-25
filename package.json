@@ -1,5 +1,5 @@
 {
-    "name": "@elysiajs/openapi",
+    "name": "@alex4386/elysia-swagger",
     "version": "1.4.13",
     "description": "Plugin for Elysia to auto-generate API documentation",
     "author": {
@@ -7,6 +7,13 @@
         "url": "https://github.com/SaltyAom",
         "email": "saltyaom@gmail.com"
     },
+    "contributors": [
+        {
+            "name": "Alex4386",
+            "url": "https://github.com/Alex4386",
+            "email": "psh010209@gmail.com"
+        }
+    ],
     "main": "./dist/cjs/index.js",
     "module": "./dist/index.mjs",
     "types": "./dist/index.d.ts",
@@ -59,12 +66,12 @@
         "swagger",
         "scalar"
     ],
-    "homepage": "https://github.com/elysiajs/elysia-openapi",
+    "homepage": "https://github.com/alex4386/elysia-swagger",
     "repository": {
         "type": "git",
-        "url": "https://github.com/elysiajs/elysia-openapi"
+        "url": "https://github.com/alex4386/elysia-swagger"
     },
-    "bugs": "https://github.com/elysiajs/elysia-openapi/issues",
+    "bugs": "https://github.com/alex4386/elysia-swagger/issues",
     "license": "MIT",
     "scripts": {
         "dev": "bun run --watch example/index.ts",
