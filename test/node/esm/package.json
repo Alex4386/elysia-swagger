@@ -1,6 +1,7 @@
 {
     "type": "module",
     "dependencies": {
-        "@elysiajs/openapi": "file:../../.."
+        "@elysiajs/openapi": "file:../../..",
+        "@alex4386/elysia-swagger": "file:../../.."
     }
 }
